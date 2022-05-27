@@ -7,7 +7,7 @@ GitHbu Link - https://github.com/kgiunta/philly-planner
 
 # Deployed 
 
-https://fierce-hollows-17492.herokuapp.com/
+[https://sheltered-lowlands-05757.herokuapp.com/]
 
 
 # Description
@@ -25,11 +25,11 @@ Based on your location users can access our DataBase to find exclusive date nigh
 
 # Installation
 
-You will need to run "npm install inquirer" for the inquirer package.
+To begin navigate to [https://sheltered-lowlands-05757.herokuapp.com/]
 
 # Usage
 
-Clone my repository to your local machine, run "npm install inquirer" in the terminal, and then run "Npm Run Develop" 
+Navigate to signup or login and after logging in the user will be presented with a unique outing planner based in the Philadelphia area. Users can create new events, select calendar dates, choose restaurants by price and category, and add new restaurants to their outing.
 
 # ScreenShot
 
